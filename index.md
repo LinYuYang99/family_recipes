@@ -3,4 +3,4 @@ set of recipes
 
 - pizzas (TODO)
 - sauces (TODO)
-- spreads (TODO)
+- spds (TODO)
